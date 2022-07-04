@@ -1,0 +1,16 @@
+info: ::1 - - [04/Jul/2022:07:53:55 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:54:02 +0000] "POST /api/v1 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:55:03 +0000] "GET /api/v1/ HTTP/1.1" 200 22 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:56:27 +0000] "GET /api/v1/signup HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:56:33 +0000] "POST /api/v1/signup HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:56:47 +0000] "POST /api/v1/users/signup HTTP/1.1" 500 71 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:58:07 +0000] "POST /api/v1/users/signup HTTP/1.1" 500 72 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [04/Jul/2022:07:58:42 +0000] "POST /api/v1/users/signup HTTP/1.1" 201 279 "-" "PostmanRuntime/7.29.0"
+

@@ -1,0 +1,46 @@
+error: 
+    status - 500 
+    message - TypeError: _joi.default.email is not a function
+    at newUserValidator (D:\book-store-server\src\validators\/user.validator.js:7:16)
+    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\book-store-server\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\book-store-server\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
+    at D:\book-store-server\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\book-store-server\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\book-store-server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\book-store-server\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\book-store-server\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\book-store-server\node_modules\express\lib\router\index.js:328:13)
+    at D:\book-store-server\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\book-store-server\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\book-store-server\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\book-store-server\node_modules\express\lib\router\index.js:175:3) 
+    url - /api/v1/users/signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-04T07:56:47.271Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.newUser is not a function
+    at _callee$ (D:\book-store-server\src\controllers\/user.controller.js:6:36)
+    at tryCatch (D:\book-store-server\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (D:\book-store-server\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (D:\book-store-server\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at registerUser (D:\book-store-server\src\controllers\/user.controller.js:4:26)
+    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\book-store-server\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (D:\book-store-server\src\validators\/user.validator.js:15:5)
+    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\book-store-server\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\book-store-server\node_modules\express\lib\router\route.js:114:3) 
+    url - /api/v1/users/signup 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-04T07:58:07.683Z"}
