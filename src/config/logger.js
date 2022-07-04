@@ -1,9 +1,6 @@
 import winston, { format } from 'winston';
 import 'winston-daily-rotate-file';
 
-/**
- * Logger handles all logs in the application
- */
 const logger = winston.createLogger({
   format: format.combine(format.timestamp(), format.simple()),
   colorize: true,
