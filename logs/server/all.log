@@ -1,49 +1,9 @@
-error: 
-    status - 500 
-    message - TypeError: _joi.default.email is not a function
-    at newUserValidator (D:\book-store-server\src\validators\/user.validator.js:7:16)
-    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
-    at next (D:\book-store-server\node_modules\express\lib\router\route.js:144:13)
-    at Route.dispatch (D:\book-store-server\node_modules\express\lib\router\route.js:114:3)
-    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
-    at D:\book-store-server\node_modules\express\lib\router\index.js:284:15
-    at Function.process_params (D:\book-store-server\node_modules\express\lib\router\index.js:346:12)
-    at next (D:\book-store-server\node_modules\express\lib\router\index.js:280:10)
-    at Function.handle (D:\book-store-server\node_modules\express\lib\router\index.js:175:3)
-    at router (D:\book-store-server\node_modules\express\lib\router\index.js:47:12)
-    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
-    at trim_prefix (D:\book-store-server\node_modules\express\lib\router\index.js:328:13)
-    at D:\book-store-server\node_modules\express\lib\router\index.js:286:9
-    at Function.process_params (D:\book-store-server\node_modules\express\lib\router\index.js:346:12)
-    at next (D:\book-store-server\node_modules\express\lib\router\index.js:280:10)
-    at Function.handle (D:\book-store-server\node_modules\express\lib\router\index.js:175:3) 
-    url - /api/v1/users/signup 
-    method - POST 
-    IP - ::1
-   {"timestamp":"2022-07-04T07:56:47.271Z"}
-error: 
-    status - 500 
-    message - TypeError: UserService.newUser is not a function
-    at _callee$ (D:\book-store-server\src\controllers\/user.controller.js:6:36)
-    at tryCatch (D:\book-store-server\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
-    at Generator._invoke (D:\book-store-server\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
-    at Generator.next (D:\book-store-server\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
-    at asyncGeneratorStep (D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
-    at _next (D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
-    at D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
-    at new Promise (<anonymous>)
-    at D:\book-store-server\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
-    at registerUser (D:\book-store-server\src\controllers\/user.controller.js:4:26)
-    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
-    at next (D:\book-store-server\node_modules\express\lib\router\route.js:144:13)
-    at newUserValidator (D:\book-store-server\src\validators\/user.validator.js:15:5)
-    at Layer.handle [as handle_request] (D:\book-store-server\node_modules\express\lib\router\layer.js:95:5)
-    at next (D:\book-store-server\node_modules\express\lib\router\route.js:144:13)
-    at Route.dispatch (D:\book-store-server\node_modules\express\lib\router\route.js:114:3) 
-    url - /api/v1/users/signup 
-    method - POST 
-    IP - ::1
-   {"timestamp":"2022-07-04T07:58:07.683Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T09:09:40.724Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T09:09:40.841Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T09:15:38.187Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T09:15:38.513Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T09:16:49.497Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T09:16:49.637Z"}
 error: uncaughtException: bookRoute is not defined
 ReferenceError: bookRoute is not defined
     at routes (D:\book-store-server\src\routes\/index.js:13:24)
@@ -440,6 +400,10 @@ TypeError: Router.use() requires a middleware function but got a Object
     at Module.load (node:internal/modules/cjs/loader:981:32)
     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12) {"date":"Mon Jul 04 2022 16:28:46 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":605911},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19105988,"external":25168351,"heapTotal":116625408,"heapUsed":93190752,"rss":149213184},"pid":4548,"uid":null,"version":"v16.15.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\book-store-server\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\book-store-server\\src\\routes\\/index.js:12:10)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","timestamp":"2022-07-04T10:58:46.210Z","trace":[{"column":13,"file":"D:\\book-store-server\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\book-store-server\\src\\routes\\/index.js","function":"routes","line":12,"method":null,"native":false},{"column":32,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T11:03:00.130Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T11:03:00.303Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T11:05:59.500Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T11:05:59.645Z"}
 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
 Error: listen EADDRINUSE: address already in use :::5000
     at Server.setupListenHandle [as _listen2] (node:net:1372:16)
@@ -458,3 +422,5 @@ Error: listen EADDRINUSE: address already in use :::5000
     at Module._compile (node:internal/modules/cjs/loader:1105:14)
     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
     at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Mon Jul 04 2022 16:35:59 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":5000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":606345},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19363476,"external":33043785,"heapTotal":115884032,"heapUsed":93002232,"rss":145825792},"pid":6400,"uid":null,"version":"v16.15.0"},"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (D:\\book-store-server\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-04T11:06:00.124Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1372,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1420,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1508,"method":"listen","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T11:31:26.536Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T11:31:28.987Z"}
