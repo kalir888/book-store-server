@@ -50,3 +50,17 @@ error:
    {"timestamp":"2022-07-04T07:58:07.683Z"}
 info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T07:58:36.223Z"}
 info: Connected to the database. {"timestamp":"2022-07-04T07:58:36.288Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:25:49.840Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:25:50.015Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:26:11.569Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:26:11.649Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:27:44.768Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:27:44.956Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:33:20.287Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:33:20.395Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:34:27.389Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:34:27.485Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:34:52.591Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:34:52.715Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-04T08:40:14.822Z"}
+info: Connected to the database. {"timestamp":"2022-07-04T08:40:14.894Z"}

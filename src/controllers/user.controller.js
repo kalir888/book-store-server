@@ -10,6 +10,25 @@ export const registerUser = async (req, res, next) => {
       message: 'User created successfully'
     });
   } catch (error) {
-    next(error);
+    res.status(HttpStatus.BAD_REQUEST).json({
+      code: HttpStatus.BAD_REQUEST,
+      message: `${error}`
+    });
   }
 };
+
+export const loginUser = async (req, res, next) => {
+  try {
+    const data = await UserService.loginUser(req.body);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'Login successfully'
+    });
+  }catch(error) {
+   res.status(HttpStatus.BAD_REQUEST).json({
+     code: HttpStatus.BAD_REQUEST,
+     message: `${error}`
+   });
+  }
+}
