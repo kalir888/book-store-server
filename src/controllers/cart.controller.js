@@ -48,3 +48,18 @@ export const updateCart = async (req, res, next) => {
       });
     }
 };
+
+export const deleteCart = async (req, res, next) => {
+    try {
+      const data = await CartService.deleteCart(req.body.userId);
+      res.status(HttpStatus.OK).json({
+        code: HttpStatus.OK,
+        message: 'Cart deleted successfully'
+      });
+    } catch (error) {
+      res.status(HttpStatus.BAD_REQUEST).json({
+        code: HttpStatus.BAD_REQUEST,
+        message: `${error}`
+      });
+    }
+};
