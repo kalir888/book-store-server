@@ -4,8 +4,10 @@ import { userAuth } from '../middlewares/auth.middleware';
 
 const router = express.Router();
 
+router.get('', userAuth, cartController.getCart);
+
 router.post('/:_id', userAuth, cartController.addToCart);
 
-router.get('', userAuth, cartController.getCart);
+router.put('/:_id', userAuth, cartController.updateCart);
 
 export default router;
