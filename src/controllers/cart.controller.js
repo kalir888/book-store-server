@@ -16,3 +16,19 @@ export const addToCart = async (req, res, next) => {
       });
     }
 };
+
+export const getCart = async (req, res, next) => {
+    try {
+      const data = await CartService.getCart(req.body.userId);
+      res.status(HttpStatus.OK).json({
+        code: HttpStatus.OK,
+        data: data,
+        message: 'Cart fetched successfully'
+      });
+    } catch (error) {
+      res.status(HttpStatus.BAD_REQUEST).json({
+        code: HttpStatus.BAD_REQUEST,
+        message: `${error}`
+      });
+    }
+};

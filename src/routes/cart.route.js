@@ -6,4 +6,6 @@ const router = express.Router();
 
 router.post('/:_id', userAuth, cartController.addToCart);
 
+router.get('', userAuth, cartController.getCart);
+
 export default router;

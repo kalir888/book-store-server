@@ -25,3 +25,9 @@ export const addToCart = async (bookId,userId) => {
         return cartData;
     }
 };
+
+export const getCart = async (userId) => {
+    const data = await Cart.findOne({userId: userId})
+    return data;
+};
+
