@@ -1,0 +1,4 @@
+info: ::1 - - [05/Jul/2022:13:55:25 +0000] "PUT /api/v1/cart/62c405de0618f311d464884a HTTP/1.1" 200 967 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [05/Jul/2022:14:05:08 +0000] "DELETE /api/v1/cart HTTP/1.1" 200 50 "-" "PostmanRuntime/7.29.0"
+

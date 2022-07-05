@@ -44,3 +44,7 @@ export const updateCart = async (bookId,userId,quantity) => {
     return cartData;
 };
 
+export const deleteCart = async (userId) => {
+    await Cart.findOneAndDelete({userId: userId});
+};
+
