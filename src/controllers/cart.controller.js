@@ -36,8 +36,8 @@ export const getCart = async (req, res, next) => {
 export const updateCart = async (req, res, next) => {
     try {
       const data = await CartService.updateCart(req.params._id, req.body.userId, req.body.quantity);
-      res.status(HttpStatus.OK).json({
-        code: HttpStatus.OK,
+      res.status(HttpStatus.ACCEPTED).json({
+        code: HttpStatus.ACCEPTED,
         data: data,
         message: 'Cart updated successfully'
       });
