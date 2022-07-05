@@ -21,7 +21,7 @@ export const addToCart = async (bookId,userId) => {
         books.push(book);
         let booksTotal = 0;
         books.forEach((book) => {booksTotal = booksTotal + book.quantity})
-        const cartData1 = await Cart.findOneAndUpdate({userId: userId},{books: books, cart_total: booksTotal},{new: true});
-        return cartData1;
+        cartData = await Cart.findOneAndUpdate({userId: userId},{books: books, cart_total: booksTotal},{new: true});
+        return cartData;
     }
 };
