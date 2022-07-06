@@ -35,7 +35,7 @@ export const getCart = async (req, res, next) => {
 
 export const updateCart = async (req, res, next) => {
     try {
-      const data = await CartService.updateCart(req.params._id, req.body.userId, req.body.quantity);
+      const data = await CartService.updateCart(req.params._id, req.body);
       res.status(HttpStatus.ACCEPTED).json({
         code: HttpStatus.ACCEPTED,
         data: data,
@@ -49,9 +49,9 @@ export const updateCart = async (req, res, next) => {
     }
 };
 
-export const deleteCart = async (req, res, next) => {
+export const deleteBook = async (req, res, next) => {
     try {
-      const data = await CartService.deleteCart(req.body.userId);
+      const data = await CartService.deleteBook(req.params._id, req.body.userId);
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
         message: 'Cart deleted successfully'
