@@ -29,3 +29,11 @@ export const addToWishList = async (bookId,userId) => {
         }
     }
 };
+
+export const getWishList = async (userId) => {
+    const data = await WishList.findOne({userId: userId})
+    if(data == null) {
+        throw Error('WishList not exist for the user')
+    }
+    return data;
+};
