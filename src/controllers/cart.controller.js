@@ -36,6 +36,8 @@ export const getCart = async (req, res, next) => {
 export const updateCart = async (req, res, next) => {
     try {
       const data = await CartService.updateCart(req.params._id, req.body);
+      console.log(req.body);
+      console.log(req.body.quantity)
       res.status(HttpStatus.ACCEPTED).json({
         code: HttpStatus.ACCEPTED,
         data: data,
@@ -54,7 +56,8 @@ export const deleteBook = async (req, res, next) => {
       const data = await CartService.deleteBook(req.params._id, req.body.userId);
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
-        message: 'Cart deleted successfully'
+        data: data,
+        message: 'Book deleted successfully'
       });
     } catch (error) {
       res.status(HttpStatus.BAD_REQUEST).json({
