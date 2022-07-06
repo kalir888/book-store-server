@@ -57,7 +57,7 @@ export const deleteBook = async (req, res, next) => {
       res.status(HttpStatus.OK).json({
         code: HttpStatus.OK,
         data: data,
-        message: 'Book deleted successfully'
+        message: 'Book deleted from cart successfully'
       });
     } catch (error) {
       res.status(HttpStatus.BAD_REQUEST).json({

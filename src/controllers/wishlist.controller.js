@@ -32,3 +32,19 @@ export const getWishList = async (req, res, next) => {
       });
     }
 };
+
+export const deleteFromList = async (req, res, next) => {
+    try {
+      const data = await WishListService.deleteFromList(req.params._id, req.body.userId);
+      res.status(HttpStatus.OK).json({
+        code: HttpStatus.OK,
+        data: data,
+        message: 'Book deleted from wishlist successfully'
+      });
+    } catch (error) {
+      res.status(HttpStatus.BAD_REQUEST).json({
+        code: HttpStatus.BAD_REQUEST,
+        message: `${error}`
+      });
+    }
+};
