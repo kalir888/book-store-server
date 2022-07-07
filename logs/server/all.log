@@ -1,2 +1,38 @@
 info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:30:43.243Z"}
 info: Connected to the database. {"timestamp":"2022-07-07T03:30:43.310Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:46:39.099Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:46:39.380Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:47:47.519Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:47:47.628Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:48:43.663Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:48:43.756Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:50:40.377Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:50:40.506Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:52:10.463Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:52:10.534Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:54:32.867Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:54:32.958Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:54:58.877Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:54:58.955Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T03:55:53.316Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T03:55:53.428Z"}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (D:\book-store-server\node_modules\express\lib\router\index.js:469:13)
+    at routes (D:\book-store-server\src\routes\/index.js:20:10)
+    at Object.<anonymous> (D:\book-store-server\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (D:\book-store-server\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (D:\book-store-server\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (D:\book-store-server\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12) {"date":"Thu Jul 07 2022 09:54:14 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":841439},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19066703,"external":20682866,"heapTotal":119771136,"heapUsed":93712456,"rss":150638592},"pid":4124,"uid":null,"version":"v16.15.0"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (D:\\book-store-server\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (D:\\book-store-server\\src\\routes\\/index.js:20:10)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","timestamp":"2022-07-07T04:24:14.450Z","trace":[{"column":13,"file":"D:\\book-store-server\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"D:\\book-store-server\\src\\routes\\/index.js","function":"routes","line":20,"method":null,"native":false},{"column":32,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T04:49:48.711Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T04:49:48.786Z"}
