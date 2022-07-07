@@ -21,9 +21,15 @@
             "hash": "89b3da20449ea6ba2a1f58d00dfffeec876ad401f3e7e65237eb8430f9064e37"
         },
         {
+<<<<<<< HEAD
             "date": 1657164515871,
             "name": "logs\\server\\daily\\2022-07-07.log",
             "hash": "bda68338d27bbf46e931545e06e60bfda45feb32822c22139b210b37c9a96809"
+=======
+            "date": 1657161753771,
+            "name": "logs\\server\\daily\\2022-07-07.log",
+            "hash": "3c9afbbb64a1929cbdcd59ec6a30f5a96cc69ed51712bdbc6d4be6852ba045f1"
+>>>>>>> order
         }
     ],
     "hashType": "sha256"
