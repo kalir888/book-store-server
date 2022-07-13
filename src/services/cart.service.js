@@ -11,7 +11,9 @@ export const addToCart = async (bookId,userId) => {
         const book = {
             productId: bookId,
             description: bookToAdd.description,
+            discountPrice: bookToAdd.discountPrice,
             bookName: bookToAdd.bookName,
+            bookImage: bookToAdd.bookImage,
             author: bookToAdd.author,
             quantity: 1,
             price: bookToAdd.price

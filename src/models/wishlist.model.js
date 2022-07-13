@@ -12,7 +12,13 @@ const wishListSchema = new Schema(
           description: {
             type: String
           },
+          discountPrice: {
+            type: Number
+          },
           bookName: {
+            type: String
+          },
+          bookImage: {
             type: String
           },
           author: {

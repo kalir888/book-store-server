@@ -1,2 +1,298 @@
 info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T04:58:49.807Z"}
 info: Connected to the database. {"timestamp":"2022-07-07T04:58:49.893Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T06:56:53.319Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T06:56:53.589Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-07T14:30:41.182Z"}
+info: Connected to the database. {"timestamp":"2022-07-07T14:30:41.288Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-08T00:28:13.656Z"}
+info: Connected to the database. {"timestamp":"2022-07-08T00:28:13.798Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-08T03:11:45.050Z"}
+info: Connected to the database. {"timestamp":"2022-07-08T03:11:45.414Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-08T03:15:22.501Z"}
+info: Connected to the database. {"timestamp":"2022-07-08T03:15:22.561Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-09T03:15:49.698Z"}
+info: Connected to the database. {"timestamp":"2022-07-09T03:15:50.299Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-09T15:39:33.017Z"}
+info: Connected to the database. {"timestamp":"2022-07-09T15:39:33.645Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T03:53:17.791Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T03:53:17.903Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:18:01.311Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:18:01.442Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:18:46.865Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:18:46.948Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:20:17.592Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:20:17.679Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:20:52.765Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:20:52.894Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:22:25.016Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:22:25.126Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:35:31.065Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:35:31.213Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T04:35:50.374Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T04:35:50.473Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:09:32.357Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:09:32.444Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:10:29.765Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:10:29.852Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:11:19.826Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:11:19.930Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:12:08.754Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:12:08.857Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:12:30.571Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:12:30.677Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:12:56.540Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:12:56.651Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:13:33.050Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:13:33.144Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:14:57.559Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:14:57.709Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:15:23.174Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:15:23.307Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:15:41.561Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:15:41.690Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T05:16:39.841Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T05:16:39.923Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:08:14.143Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:08:14.236Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:11:58.326Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:11:58.424Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:12:35.417Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:12:35.518Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:15:13.225Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:15:13.326Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:19:15.522Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:19:15.624Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:20:56.495Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:20:56.578Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:24:49.626Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:24:49.713Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:25:30.959Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:25:31.063Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:25:58.784Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:25:58.867Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:26:49.545Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:26:49.635Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:28:09.453Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:28:09.551Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:30:05.469Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:30:05.553Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:31:27.806Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:31:27.893Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:33:09.770Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:33:09.856Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:34:01.524Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:34:01.645Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:35:25.903Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:35:26.000Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:35:51.438Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:35:51.530Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:36:39.285Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:36:39.374Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:37:10.158Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:37:10.245Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:40:05.248Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:40:05.341Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:41:14.915Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:41:15.007Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:42:33.622Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:42:33.707Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:43:53.877Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:43:53.961Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:44:21.240Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:44:21.351Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:45:27.843Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:45:27.932Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:46:03.116Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:46:03.223Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:46:54.997Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:46:55.091Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:47:51.908Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:47:51.991Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:50:53.966Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:50:54.060Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:51:13.200Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:51:13.288Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:51:58.418Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:51:58.509Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:53:20.823Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:53:20.908Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:55:08.038Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:55:08.129Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:58:08.191Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:58:08.302Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T06:58:54.498Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T06:58:54.594Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T07:09:25.386Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T07:09:25.473Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T07:24:35.916Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T07:24:36.014Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T07:30:01.411Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T07:30:01.551Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T07:31:44.155Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T07:31:44.260Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/comments/621588f105253301a4fda5d0 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-07-10T08:12:49.519Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/comments/621588f105253301a4fda5d0 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-07-10T08:15:32.701Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/comments/621588f105253301a4fda5d0 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-07-10T08:17:27.097Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/comments/6215888305253301a4fda5cd 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-07-10T08:22:56.056Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T08:26:29.508Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T08:26:29.656Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T10:34:00.848Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T10:34:01.350Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at Function.listen (D:\book-store-server\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\book-store-server\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (D:\book-store-server\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (D:\book-store-server\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (D:\book-store-server\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Sun Jul 10 2022 16:04:01 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":5000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1122827},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19730793,"external":25686307,"heapTotal":118927360,"heapUsed":92056368,"rss":152227840},"pid":10456,"uid":null,"version":"v16.15.0"},"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (D:\\book-store-server\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-10T10:34:01.784Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1372,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1420,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1508,"method":"listen","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T10:41:43.019Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T10:41:43.120Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T10:44:10.822Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T10:44:10.956Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T10:46:24.232Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T10:46:24.330Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:47:28.702Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:47:28.850Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:48:40.809Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:48:40.925Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:49:13.271Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:49:13.370Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:51:11.997Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:51:12.108Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:52:46.600Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:52:46.709Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:55:57.217Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:55:57.464Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T12:58:07.312Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T12:58:07.420Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:03:50.040Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:03:50.158Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at Function.listen (D:\book-store-server\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\book-store-server\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (D:\book-store-server\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (D:\book-store-server\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (D:\book-store-server\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Sun Jul 10 2022 18:33:50 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":5000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1131815},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19081719,"external":24562099,"heapTotal":121290752,"heapUsed":86851128,"rss":145674240},"pid":404,"uid":null,"version":"v16.15.0"},"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (D:\\book-store-server\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-10T13:03:50.341Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1372,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1420,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1508,"method":"listen","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:05:04.348Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:05:04.518Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:06:16.047Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:06:16.162Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:09:29.706Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:09:29.814Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:10:55.001Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:10:55.128Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at Function.listen (D:\book-store-server\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\book-store-server\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (D:\book-store-server\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (D:\book-store-server\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (D:\book-store-server\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Sun Jul 10 2022 18:41:24 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":5000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1132269},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19510874,"external":26382175,"heapTotal":121028608,"heapUsed":91270360,"rss":154611712},"pid":11260,"uid":null,"version":"v16.15.0"},"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (D:\\book-store-server\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-10T13:11:24.478Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1372,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1420,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1508,"method":"listen","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (node:net:1372:16)
+    at listenInCluster (node:net:1420:12)
+    at Server.listen (node:net:1508:7)
+    at Function.listen (D:\book-store-server\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\book-store-server\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._compile (D:\book-store-server\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.newLoader [as .js] (D:\book-store-server\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (D:\book-store-server\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Sun Jul 10 2022 18:42:05 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":5000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1132310},"process":{"argv":["node","D:\\book-store-server\\src\\index.js"],"cwd":"D:\\book-store-server","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19424400,"external":26359298,"heapTotal":121028608,"heapUsed":90730232,"rss":154034176},"pid":9300,"uid":null,"version":"v16.15.0"},"stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1372:16)\n    at listenInCluster (node:net:1420:12)\n    at Server.listen (node:net:1508:7)\n    at Function.listen (D:\\book-store-server\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (D:\\book-store-server\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Module._compile (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Object.newLoader [as .js] (D:\\book-store-server\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-10T13:12:05.204Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1372,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1420,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1508,"method":"listen","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"D:\\book-store-server\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":24,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":7,"file":"D:\\book-store-server\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"D:\\book-store-server\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1105,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1159,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:13:57.609Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:13:57.721Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:17:12.336Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:17:12.445Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:21:51.905Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:21:51.996Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:22:57.332Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:22:57.424Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:34:56.915Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:34:57.031Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T13:40:04.240Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T13:40:04.330Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T14:16:29.830Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T14:16:30.072Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T14:34:42.385Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T14:34:42.481Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T14:35:56.123Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T14:35:56.223Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-10T14:36:32.395Z"}
+info: Connected to the database. {"timestamp":"2022-07-10T14:36:32.489Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-11T06:13:11.134Z"}
+info: Connected to the database. {"timestamp":"2022-07-11T06:13:11.335Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-11T09:41:31.360Z"}
+info: Connected to the database. {"timestamp":"2022-07-11T09:41:31.444Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-11T14:55:02.206Z"}
+info: Connected to the database. {"timestamp":"2022-07-11T14:55:02.327Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-11T15:19:42.764Z"}
+info: Connected to the database. {"timestamp":"2022-07-11T15:19:42.908Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-12T00:48:41.986Z"}
+info: Connected to the database. {"timestamp":"2022-07-12T00:48:42.115Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-07-12T17:13:06.128Z"}
+info: Connected to the database. {"timestamp":"2022-07-12T17:13:06.242Z"}

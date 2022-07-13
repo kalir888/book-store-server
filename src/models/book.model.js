@@ -1,3 +1,4 @@
+import Double from '@mongoosejs/double/lib';
 import { Schema, model } from 'mongoose';
 
 const bookSchema = new Schema(
@@ -25,6 +26,9 @@ const bookSchema = new Schema(
         },
         price: {
             type: Number
+        },
+        rating: {
+            type: Double
         }
     },
     {

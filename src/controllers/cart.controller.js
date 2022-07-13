@@ -36,8 +36,6 @@ export const getCart = async (req, res, next) => {
 export const updateCart = async (req, res, next) => {
     try {
       const data = await CartService.updateCart(req.params._id, req.body);
-      console.log(req.body);
-      console.log(req.body.quantity)
       res.status(HttpStatus.ACCEPTED).json({
         code: HttpStatus.ACCEPTED,
         data: data,
